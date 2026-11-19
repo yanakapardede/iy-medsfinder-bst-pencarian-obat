@@ -4,7 +4,7 @@
 
 ## Anggota Kelompok
 
-| No. | Nama | NIM | 
+| No. | Nama | NIM |
 |:---:|---|---|---|
 | 1 | Yanaka Sofia Pardede | 24031554065 | 
 | 2 | Annisa Ramadhani | 24031554206 |
